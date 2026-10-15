@@ -1,0 +1,10 @@
+{
+  "name": "heygen-video",
+  "version": "0.1.0",
+  "description": "RunAPI HeyGen Video skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+  "skills": [
+    {
+      "path": "skills/heygen-video/SKILL.md"
+    }
+  ]
+}
